@@ -28,3 +28,5 @@ open_new_terminal "sh $(pwd)/setup_oh_my_zsh.sh"
 open_new_terminal "sh $(pwd)/setup_node.sh"
 open_new_terminal "sh $(pwd)/setup_ruby.sh"
 open_new_terminal "sh $(pwd)/setup_antigen.sh"
+open_new_terminal "sh $(pwd)/install_flutter.sh"
+
